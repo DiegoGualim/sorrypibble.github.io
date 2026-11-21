@@ -1,0 +1,17 @@
+PARA EMILY — LISTA PARA GITHUB PAGES
+
+1. Crea el repositorio en GitHub (público si usas GitHub Free).
+2. Sube index.html, styles.css, script.js y la carpeta assets directamente a la raíz del repositorio, sin una carpeta para-emily que los envuelva.
+3. Abre Settings > Pages.
+4. En Build and deployment elige Deploy from a branch.
+5. Selecciona la rama main y la carpeta / (root). Guarda.
+6. Espera a que GitHub termine de publicar. Pages mostrará la dirección.
+
+Si el repo se llama TUUSUARIO.github.io, la dirección será https://TUUSUARIO.github.io/.
+Con otro nombre, será https://TUUSUARIO.github.io/NOMBRE-DEL-REPO/.
+
+No necesita instalar nada ni ejecutar un build. Las rutas funcionan en ambos casos.
+Puedes editar los textos en index.html. Los mensajes de los corazones están en data-message y data-title.
+La foto está en assets/perrito.png. Las fuentes se descargan de Google Fonts; si no hay conexión se usan fuentes del dispositivo.
+Los botones funcionan en el dispositivo de quien abre la página. No envían respuestas ni guardan datos.
+La etiqueta noindex pide a los buscadores no indexar el contenido, pero NO vuelve privada una página pública.
